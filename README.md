@@ -172,7 +172,7 @@
 
 ## 👨‍👩‍👧‍👦 팀원
 
-<table style="overflow: none">
+<table>
   <tr align="center">
     <td>오정진</td>
     <td>이상준</td>
