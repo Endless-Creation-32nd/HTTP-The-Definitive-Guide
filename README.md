@@ -172,7 +172,7 @@
 
 ## 👨‍👩‍👧‍👦 팀원
 
-<table>
+<table style="overflow: none">
   <tr align="center">
     <td>오정진</td>
     <td>이상준</td>
@@ -182,15 +182,15 @@
   <tr>
     <td align="center">
       <a href="https://github.com/ojj1123"><img src="https://avatars.githubusercontent.com/u/33178048?v=4" width="150px" alt="오정진"/><br /></a>
-     </td>
+    </td>
     <td align="center">
-      <a href="https://github.com/Sangjun-man"><img src="https://avatars.githubusercontent.com/u/66112027?v=4" width="150px" alt="이상준"/><br /></a><br />
-      </td>
-     <td align="center">
+      <a href="https://github.com/Sangjun-man"><img src="https://avatars.githubusercontent.com/u/66112027?v=4" width="150px" alt="이상준"/><br /></a>
+    </td>
+    <td align="center">
       <a href="https://github.com/hyorish03"><img src="https://avatars.githubusercontent.com/u/108210492?v=4" width="150px" alt="이효린"/><br /></a>
-     </td>
-     <td align="center">
+    </td>
+    <td align="center">
       <a href="https://github.com/sjsjsj1246"><img src="https://avatars.githubusercontent.com/u/24623403?v=4" width="150px" alt="황인서"/><br /></a>
-     </td>
+    </td>
   <tr>
 </table>
