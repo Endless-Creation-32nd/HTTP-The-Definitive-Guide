@@ -100,7 +100,7 @@ http://www.google.com/hammers;sale=false/inde.html;graphics=true
 
 위 URL에는 hammers와 index.html 이라는 두 개의 경로조각이 있다.
 
-hammers 경로 조각은 값이 false인 sale 파라미터를 가진다.ㅍ
+hammers 경로 조각은 값이 false인 sale 파라미터를 가진다.
 index.html 경로조각은 값이 true인 graphics란 파라미터를 가진다.
 
 #### 2.2.6 질의 문자열
