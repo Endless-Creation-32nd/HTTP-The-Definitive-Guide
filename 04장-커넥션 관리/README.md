@@ -103,7 +103,11 @@ _프락시와 홉별 헤더_
 그러나 영리한 프락시는 Proxy-Connection 헤더가 keep-alive를 요청하는 것임을 인식하여,
 자체적으로 Connection:keep-Alive 헤더를 웹 서버로 전송한다.
 
+![image](https://user-images.githubusercontent.com/24623403/219530491-4163a914-a74b-493a-a7d9-a98b33c82994.png)
+
 그러나 여러 멍청한 프락시와 영리한 프락시가 연결되어 있으면 여전히 잘못된 헤더를 만들어내는 문제가 발생한다.
+
+![image](https://user-images.githubusercontent.com/24623403/219530602-a0a3e0da-7db1-4827-9625-76ab83dabfbe.png)
 
 #### 4.5.8 HTTP/1.1의 지속 커넥션
 
@@ -157,7 +161,7 @@ Content-Length의 값이 일치하지 않거나 Content-Length 자체가 존재�
 클라이언트는 POST와 같이 멱등이 아닌 요청은 파이프라인을 통해 요청하면 안 된다. 전송 커넥션이
 예상치 못하게 끊기면 알 수 없는 결과를 초래하기 때문이다.
 
-한 번 혹은 여러번 실행됐는지에 상관없이 같은 결괄르 반환한다면 그 트랜잭션은 멱등하다고 한다.
+한 번 혹은 여러번 실행됐는지에 상관없이 같은 결과를 반환한다면 그 트랜잭션은 멱등하다고 한다.
 GET, HEAD, PUT, DELETE, OPTIONS, TRACE는 멱등하다.
 
 #### 4.7.4 우아한 커넥션 끊기
