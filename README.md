@@ -38,59 +38,59 @@
     </tr>
     <tr>
       <td>2장 URL과 리소스</td>
-      <td></td>
-      <td></td>
+      <td>황인서</td>
+      <td>이효린</td>
     </tr>
     <tr>
       <td>3장 HTTP 메시지</td>
-      <td></td>
-      <td></td>
+      <td>이상준</td>
+      <td>오정진</td>
     </tr>
     <tr>
       <td>4장 커넥션 관리</td>
-      <td></td>
-      <td></td>
+      <td>오정진</td>
+      <td>황인서</td>
     </tr>
     <tr>
       <td rowspan="6">II. HTTP 아키텍처</td>
       <td>5장 웹 서버</td>
-      <td></td>
-      <td></td>
+      <td>이상준</td>
+      <td>이효린</td>
     </tr>
     <tr>
       <td>6장 프락시</td>
-      <td></td>
-      <td></td>
+      <td>이상준</td>
+      <td>황인서</td>
     </tr>
     <tr>
       <td>7장 캐시</td>
-      <td></td>
-      <td></td>
+      <td>오정진</td>
+      <td>이효린</td>
     </tr>
     <tr>
       <td>8장 통합점: 게이트웨이, 터널, 릴레이</td>
-      <td></td>
-      <td></td>
+      <td>이효린</td>
+      <td>이상준</td>
     </tr>
     <tr>
       <td>9장 웹 로봇</td>
-      <td></td>
-      <td></td>
+      <td>황인서</td>
+      <td>오정진</td>
     </tr>
     <tr>
       <td>10장 HTTP/2.0</td>
-      <td></td>
+      <td>이상준</td>
       <td></td>
     </tr>
     <tr>
       <td rowspan="4">III. 식별 인가 보안</td>
       <td>11장 클라이언트 식별과 쿠키</td>
-      <td></td>
-      <td></td>
+      <td>이효린</td>
+      <td>황인서</td>
     </tr>
     <tr>
       <td>12장 기본 인증</td>
-      <td></td>
+      <td>오정진</td>
       <td></td>
     </tr>
     <tr>
